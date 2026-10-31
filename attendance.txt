@@ -1,0 +1,15 @@
+SAMPLE COLLEGE POLICY — FICTIONAL DATA FOR RAG TESTING
+Document: Student Attendance Policy
+Version: 1.0
+Effective date: 1 April 2026
+
+1. Minimum attendance
+Students must maintain at least 75% attendance in each course.
+
+2. Attendance shortage
+Students whose attendance falls below 75% must contact their department office and follow the official shortage-of-attendance procedure.
+
+3. Calculation
+Attendance is tracked separately for each course. A student's overall average does not replace the requirement for each individual course.
+
+Note: This is fictional sample data created for software testing. It is not an official college policy.
